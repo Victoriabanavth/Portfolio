@@ -1,20 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victoria%20Banavath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Analyst%20%7C%20Fintech%20%26%20Banking&descSize=18&descAlignY=52" width="100%"/>
+# 👋 Hi, I'm Victoria Banavath
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Translating+8%2B+Disparate+Sources;Into+One+Source+of+Truth+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+### 🚀 Senior Data Analyst | Fintech & Banking | 7+ Years Experience
 
-<!-- Social Badges -->
-<p>
-<a href="https://victoria-banavath.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/victoria-banavath-a348801a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:victoriabanavath4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Translating+8%2B+Disparate+Sources;Into+One+Source+of+Truth+🎯)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Victoriabanavth&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+---
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-victoria--banavath.vercel.app-00D9FF?style=for-the-badge)](https://victoria-banavath.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-banavath-a348801a3/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriabanavath4@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Victoriabanavth&style=for-the-badge&color=00D9FF)
 
 </div>
 
@@ -25,7 +23,7 @@
 ```typescript
 const victoria = {
     role: "Senior Data Analyst",
-    location: "Ohio, USA",
+    location: "Ohio, USA 🇺🇸",
     experience: "7+ years",
     industries: ["Fintech", "Banking", "Financial Services"],
     
@@ -49,12 +47,24 @@ const victoria = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victoriabanavth&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="49%" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=radical" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Victoriabanavth&theme=radical&hide_border=true&background=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Victoriabanavth&theme=default" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Victoriabanavth&theme=radical" width="48%" />
+  </picture>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="40%" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=default" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=radical" width="40%" />
+  </picture>
 </div>
 
 ---
@@ -73,38 +83,32 @@ const victoria = {
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ⚙️ Tools & Frameworks
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Career Journey
 
-```mermaid
-gantt
-    title Career Journey
-    dateFormat  YYYY-MM
-    section Hexaware
-    Data Analyst (Ohio, USA)       :active, 2025-01, 2026-02
-    section HSBC
-    System Data Analyst (India)    :2019-08, 2022-12
-    section Karvy IT
-    Associate Data Analyst (India) :2017-03, 2019-05
-```
+| Period | Role | Company | Location |
+|:------:|:----:|:-------:|:--------:|
+| 🟢 **2025 - Present** | Data Analyst | **Hexaware** | Ohio, USA |
+| 🔵 **2019 - 2022** | System Data Analyst | **HSBC** | Hyderabad, India |
+| 🟣 **2017 - 2019** | Associate Data Analyst | **Karvy IT Solutions** | Hyderabad, India |
 
 ---
 
@@ -112,24 +116,13 @@ gantt
 
 <div align="center">
 
-<a href="https://github.com/Victoriabanavth/Real-Time-Sales-Analytics-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victoriabanavth&repo=Real-Time-Sales-Analytics-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88" width="49%" />
-</a>
-<a href="https://github.com/Victoriabanavth/Customer-Churn-Predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victoriabanavth&repo=Customer-Churn-Predictor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88" width="49%" />
-</a>
-
-<a href="https://github.com/Victoriabanavth/ETL-Pipeline-Monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victoriabanavth&repo=ETL-Pipeline-Monitor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88" width="49%" />
-</a>
+| Project | Description | Tech | Demo |
+|:-------:|:-----------:|:----:|:----:|
+| 📊 **Sales Analytics Dashboard** | Real-time KPI visualization with drill-down filters | `JavaScript` `Chart.js` | [![Live](https://img.shields.io/badge/🔗_Live-00D9FF?style=flat-square)](https://real-time-sales-analytics-dashboard.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/Real-Time-Sales-Analytics-Dashboard) |
+| 🎯 **Customer Churn Predictor** | ML-powered prediction with 89% accuracy | `Python` `Scikit-learn` | [![Live](https://img.shields.io/badge/🔗_Live-00D9FF?style=flat-square)](https://customer-churn-predictor-ecru.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/Customer-Churn-Predictor) |
+| 🔄 **ETL Pipeline Monitor** | Real-time pipeline health dashboard | `JavaScript` `CSS` | [![Live](https://img.shields.io/badge/🔗_Live-00D9FF?style=flat-square)](https://etl-pipeline-monitor.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/ETL-Pipeline-Monitor) |
 
 </div>
-
-| Project | Demo | Description |
-|---------|------|-------------|
-| 📊 **Sales Analytics Dashboard** | [Live](https://real-time-sales-analytics-dashboard.vercel.app/) | Real-time KPI visualization with Chart.js |
-| 🎯 **Customer Churn Predictor** | [Live](https://customer-churn-predictor-ecru.vercel.app/) | ML-powered churn prediction (89% accuracy) |
-| 🔄 **ETL Pipeline Monitor** | [Live](https://etl-pipeline-monitor.vercel.app/) | Real-time pipeline health dashboard |
 
 ---
 
@@ -137,13 +130,19 @@ gantt
 
 <div align="center">
 
-| Metric | Value | Impact |
-|:------:|:-----:|:------:|
-| ⏱️ **Manual Prep Time** | **-40%** | Automated data pipelines |
-| 💰 **Annual Savings** | **$25K** | VBA → Python migration |
-| ✅ **Data Accuracy** | **100%** | KYC/AML reconciliation |
-| 🛡️ **Fraud Reduction** | **22%** | Anomaly detection scripts |
-| ⚡ **Weekly Hours Saved** | **12 hrs** | Automated KPI scorecards |
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                        🎯 KEY ACHIEVEMENTS                               │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│   ⏱️  Manual Prep Time    ████████████████████░░░░░  -40%              │
+│   💰 Annual Savings       ██████████████████████████  $25K             │
+│   ✅ Data Accuracy        ██████████████████████████  100%             │
+│   🛡️  Fraud Reduction     ████████████░░░░░░░░░░░░░░  22%              │
+│   ⚡ Hours Saved/Week     ████████████████████░░░░░░  12 hrs           │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -153,20 +152,18 @@ gantt
 
 <div align="center">
 
-| Degree | Institution | Year |
-|:------:|:-----------:|:----:|
-| 🎓 **M.S. Information Technology** | Franklin University | 2025 |
-| 🎓 **B.Tech Electronics & Comm.** | Osmania University | 2016 |
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|:---------:|:--------------:|:-------:|
+| **M.S. Information Technology** | Franklin University | 2025 |
+| **B.Tech Electronics & Comm.** | Osmania University | 2016 |
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🏆 Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victoriabanavth&bg_color=0D1117&color=00D9FF&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victoriabanavth&theme=react-dark&hide_border=true&area=true)](https://github.com/Victoriabanavth)
 
 ---
 
@@ -174,17 +171,9 @@ gantt
 
 <div align="center">
 
-<a href="https://victoria-banavath.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-victoria--banavath.vercel.app-00D9FF?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-<a href="mailto:victoriabanavath4@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-victoriabanavath4@gmail.com-EA4335?style=for-the-badge" alt="Email"/>
-</a>
-
-<a href="tel:+17409040299">
-  <img src="https://img.shields.io/badge/📞_Phone-+1_(740)_904--0299-00FF88?style=for-the-badge" alt="Phone"/>
-</a>
+| 🌐 Portfolio | 📧 Email | 📞 Phone |
+|:------------:|:--------:|:--------:|
+| [victoria-banavath.vercel.app](https://victoria-banavath.vercel.app/) | [victoriabanavath4@gmail.com](mailto:victoriabanavath4@gmail.com) | +1 (740) 904-0299 |
 
 </div>
 
@@ -192,11 +181,12 @@ gantt
 
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+### 💡 *"Turning raw data into actionable insights, one pipeline at a time."*
 
-**💡 "Turning raw data into actionable insights, one pipeline at a time."**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing!)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!" alt="Footer Typing"/>
+---
+
+⭐ **If you find my work interesting, consider giving a star!** ⭐
 
 </div>
