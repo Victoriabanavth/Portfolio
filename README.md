@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=200&section=header&text=Victoria%20Banavath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Fintech%20%26%20Banking&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Victoria%20Banavath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Fintech%20%26%20Banking&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
@@ -16,9 +16,6 @@
 
 <!-- Animated Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Victoriabanavth&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
 
@@ -210,4 +207,4 @@ const victoria = {
 </div>
 
 <!-- Animated Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,12,3,2&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer&animation=twinkling"/>
