@@ -66,8 +66,13 @@ const victoria = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="40%" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavath&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
+    width="40%"
+    alt="Top Languages"
+  />
 </div>
+
 
 <!-- Animated Snake Contribution Graph -->
 <div align="center">
@@ -215,5 +220,6 @@ const victoria = {
 
 <!-- Animated Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer&animation=twinkling"/>
+
 
 
