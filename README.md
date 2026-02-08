@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- your centered content -->
-</div>
+
 
 
 <!-- Animated Typing -->
@@ -215,4 +215,5 @@ const victoria = {
 
 <!-- Animated Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer&animation=twinkling"/>
+
 
