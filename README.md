@@ -1,24 +1,32 @@
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00FF88,100:8B5CF6&height=200&section=header&text=Victoria%20Banavath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Fintech%20%26%20Banking&descAlignY=55&descSize=18"/>
+
 <div align="center">
 
-# 👋 Hi, I'm Victoria Banavath
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=🎯+Translating+8%2B+Disparate+Sources;Into+One+Source+of+Truth+✨)](https://git.io/typing-svg)
 
-### 🚀 Senior Data Analyst | Fintech & Banking | 7+ Years Experience
+<!-- Social Badges with Hover Animation -->
+<p>
+<a href="https://victoria-banavath.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/victoria-banavath-a348801a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:victoriabanavath4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Victoriabanavth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Translating+8%2B+Disparate+Sources;Into+One+Source+of+Truth+🎯)](https://git.io/typing-svg)
+<!-- Animated Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Victoriabanavth&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
----
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-victoria--banavath.vercel.app-00D9FF?style=for-the-badge)](https://victoria-banavath.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-banavath-a348801a3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriabanavath4@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Victoriabanavth&style=for-the-badge&color=00D9FF)
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```typescript
 const victoria = {
@@ -28,9 +36,9 @@ const victoria = {
     industries: ["Fintech", "Banking", "Financial Services"],
     
     currentFocus: [
-        "Building real-time analytics dashboards",
-        "Automating data pipelines with Python & SQL",
-        "Fraud detection & anomaly analysis"
+        "📊 Real-time analytics dashboards",
+        "🐍 Python & SQL automation",
+        "🛡️ Fraud detection systems"
     ],
     
     impact: {
@@ -42,36 +50,42 @@ const victoria = {
 };
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=radical" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Victoriabanavth&theme=radical&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Victoriabanavth&theme=default" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Victoriabanavth&theme=radical" width="48%" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=default" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=radical" width="40%" />
-  </picture>
-</div>
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88&text_color=FFFFFF&ring_color=00D9FF" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Victoriabanavth&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriabanavth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="40%" alt="Top Languages"/>
+</div>
+
+<!-- Animated Snake Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+<!-- Animated Tech Icons -->
+<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,aws,git&theme=dark" alt="Skills"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode&theme=dark" alt="Skills"/>
+
+<br/><br/>
 
 ### 💻 Languages & Query
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -102,7 +116,9 @@ const victoria = {
 
 ---
 
-## 💼 Career Journey
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Career Journey
+
+<div align="center">
 
 | Period | Role | Company | Location |
 |:------:|:----:|:-------:|:--------:|
@@ -110,45 +126,47 @@ const victoria = {
 | 🔵 **2019 - 2022** | System Data Analyst | **HSBC** | Hyderabad, India |
 | 🟣 **2017 - 2019** | Associate Data Analyst | **Karvy IT Solutions** | Hyderabad, India |
 
+</div>
+
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech | Demo |
-|:-------:|:-----------:|:----:|:----:|
-| 📊 **Sales Analytics Dashboard** | Real-time KPI visualization with drill-down filters | `JavaScript` `Chart.js` | [![Live](https://img.shields.io/badge/🔗_Live-00D9FF?style=flat-square)](https://real-time-sales-analytics-dashboard.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/Real-Time-Sales-Analytics-Dashboard) |
-| 🎯 **Customer Churn Predictor** | ML-powered prediction with 89% accuracy | `Python` `Scikit-learn` | [![Live](https://img.shields.io/badge/🔗_Live-00D9FF?style=flat-square)](https://customer-churn-predictor-ecru.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/Customer-Churn-Predictor) |
-| 🔄 **ETL Pipeline Monitor** | Real-time pipeline health dashboard | `JavaScript` `CSS` | [![Live](https://img.shields.io/badge/🔗_Live-00D9FF?style=flat-square)](https://etl-pipeline-monitor.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/ETL-Pipeline-Monitor) |
+| Project | Description | Tech | Links |
+|:-------:|:-----------:|:----:|:-----:|
+| 📊 **Sales Analytics Dashboard** | Real-time KPI visualization | `JavaScript` `Chart.js` | [![Live](https://img.shields.io/badge/🔗_Demo-00D9FF?style=flat-square)](https://real-time-sales-analytics-dashboard.vercel.app/) [![Code](https://img.shields.io/badge/📂_Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/Real-Time-Sales-Analytics-Dashboard) |
+| 🎯 **Customer Churn Predictor** | ML prediction with 89% accuracy | `Python` `Scikit-learn` | [![Live](https://img.shields.io/badge/🔗_Demo-00D9FF?style=flat-square)](https://customer-churn-predictor-ecru.vercel.app/) [![Code](https://img.shields.io/badge/📂_Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/Customer-Churn-Predictor) |
+| 🔄 **ETL Pipeline Monitor** | Real-time pipeline health | `JavaScript` `CSS` | [![Live](https://img.shields.io/badge/🔗_Demo-00D9FF?style=flat-square)](https://etl-pipeline-monitor.vercel.app/) [![Code](https://img.shields.io/badge/📂_Code-181717?style=flat-square&logo=github)](https://github.com/Victoriabanavth/ETL-Pipeline-Monitor) |
 
 </div>
 
 ---
 
-## 📈 Impact Metrics
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Impact Metrics
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                        🎯 KEY ACHIEVEMENTS                               │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│   ⏱️  Manual Prep Time    ████████████████████░░░░░  -40%              │
-│   💰 Annual Savings       ██████████████████████████  $25K             │
-│   ✅ Data Accuracy        ██████████████████████████  100%             │
-│   🛡️  Fraud Reduction     ████████████░░░░░░░░░░░░░░  22%              │
-│   ⚡ Hours Saved/Week     ████████████████████░░░░░░  12 hrs           │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                         🎯 KEY ACHIEVEMENTS                              ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   ⏱️  Manual Prep Time    ████████████████████░░░░░  -40%               ║
+║   💰 Annual Savings       ██████████████████████████  $25K              ║
+║   ✅ Data Accuracy        ██████████████████████████  100%              ║
+║   🛡️  Fraud Reduction     ████████████░░░░░░░░░░░░░░  22%               ║
+║   ⚡ Hours Saved/Week     ████████████████████░░░░░░  12 hrs            ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🎓 Education
+## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Education
 
 <div align="center">
 
@@ -161,19 +179,19 @@ const victoria = {
 
 ---
 
-## 🏆 Activity Graph
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victoriabanavth&theme=react-dark&hide_border=true&area=true)](https://github.com/Victoriabanavth)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victoriabanavth&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Victoriabanavth)
 
 ---
 
-## 📫 Let's Connect!
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Let's Connect!
 
 <div align="center">
 
-| 🌐 Portfolio | 📧 Email | 📞 Phone |
-|:------------:|:--------:|:--------:|
-| [victoria-banavath.vercel.app](https://victoria-banavath.vercel.app/) | [victoriabanavath4@gmail.com](mailto:victoriabanavath4@gmail.com) | +1 (740) 904-0299 |
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-victoria--banavath.vercel.app-00D9FF?style=for-the-badge)](https://victoria-banavath.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-victoriabanavath4@gmail.com-EA4335?style=for-the-badge)](mailto:victoriabanavath4@gmail.com)
+[![Phone](https://img.shields.io/badge/📞_Phone-+1_(740)_904--0299-00FF88?style=for-the-badge)](tel:+17409040299)
 
 </div>
 
@@ -183,10 +201,13 @@ const victoria = {
 
 ### 💡 *"Turning raw data into actionable insights, one pipeline at a time."*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing!)](https://git.io/typing-svg)
+<!-- Animated Typing Footer -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!;Feel+free+to+connect+📫)](https://git.io/typing-svg)
 
----
-
+<!-- Star Badge -->
 ⭐ **If you find my work interesting, consider giving a star!** ⭐
 
 </div>
+
+<!-- Animated Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00FF88,100:00D9FF&height=120&section=footer&animation=twinkling"/>
