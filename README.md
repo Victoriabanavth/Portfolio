@@ -58,19 +58,11 @@ const victoria = {
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30" /> GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Victoriabanavath&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88&text_color=FFFFFF&ring_color=00D9FF&cache_seconds=1800"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Victoriabanavath&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF"
-    width="49%"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victoriabanavth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF88&text_color=FFFFFF&ring_color=00D9FF" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Victoriabanavth&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -229,6 +221,7 @@ const victoria = {
 
 <!-- Animated Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer&animation=twinkling"/>
+
 
 
 
