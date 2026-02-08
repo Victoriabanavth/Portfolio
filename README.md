@@ -1,7 +1,14 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Victoria%20Banavath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Fintech%20%26%20Banking&descAlignY=55&descSize=18"/>
+<img
+  width="100%"
+  alt="Victoria Banavath"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Victoria%20Banavath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20-%20Fintech%20and%20Banking&descAlignY=55&descSize=18"
+/>
 
 <div align="center">
+  <!-- your centered content -->
+</div>
+
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=🎯+Translating+8%2B+Disparate+Sources;Into+One+Source+of+Truth+✨)](https://git.io/typing-svg)
@@ -208,3 +215,4 @@ const victoria = {
 
 <!-- Animated Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer&animation=twinkling"/>
+
