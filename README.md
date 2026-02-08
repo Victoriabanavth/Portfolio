@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00FF88,100:8B5CF6&height=200&section=header&text=Victoria%20Banavath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Fintech%20%26%20Banking&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=200&section=header&text=Victoria%20Banavath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Fintech%20%26%20Banking&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
@@ -210,4 +210,4 @@ const victoria = {
 </div>
 
 <!-- Animated Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00FF88,100:00D9FF&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,12,3,2&height=120&section=footer&animation=twinkling"/>
